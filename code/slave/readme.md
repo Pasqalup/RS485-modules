@@ -12,7 +12,7 @@ mkdir ch32fun/examples/rs485slave/
 cd ch32fun/examples/rs485slave/
 ```
 3. Copy all files from here into the new project directory:
-![funconfig.h Makefile slave.c](../../assets/image.png)  
+![funconfig.h Makefile slave.c](../../assets/slave_code.png)
 4. Compile 
 ```
 make
